@@ -1578,6 +1578,7 @@ def _(rid, params: dict) -> dict:
             {
                 "cli",
                 "tui",
+                "webui",
                 "telegram",
                 "discord",
                 "slack",
